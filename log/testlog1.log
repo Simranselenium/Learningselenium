@@ -1,0 +1,7 @@
+2025-03-18 10:40:25,250 [main] INFO HRM Application - -------------info---------------
+2025-03-18 10:40:25,257 [main] WARN HRM Application - -------------warn---------------
+2025-03-18 10:40:25,257 [main] ERROR HRM Application - -------------error---------------
+2025-03-18 10:40:25,257 [main] INFO HRM Application - =================launching app========================
+2025-03-18 10:40:33,222 [main] INFO HRM Application - Application URL: http://only-testing-blog.blogspot.com/2013/11/new-test.html
+2025-03-18 10:40:39,380 [main] INFO HRM Application - enter username: Admin
+2025-03-18 10:40:45,495 [main] INFO HRM Application - =================closing app========================
