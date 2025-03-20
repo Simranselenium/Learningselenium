@@ -101,7 +101,7 @@
 						<suiteXmlFiles>
 							<!--<suiteXmlFile>testng_ddt.xml</suiteXmlFile>-->
 							<!--<suiteXmlFile>testng_logExample.xml</suiteXmlFile>-->
-							<suiteXmlFile>testng_alert.xml</suiteXmlFile>
+							<suiteXmlFile>testng_pom.xml</suiteXmlFile>
 
 
 						</suiteXmlFiles>
